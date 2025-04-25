@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Asadbek</h1>
+<h3 align="center">Front-End Developer From Uzbekistan</h3>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
