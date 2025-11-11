@@ -1,10 +1,6 @@
 <h1 align="center">Hey there, I'm Asadbek 👋</h1>
 <h3 align="center">Front-End Developer | Next.js Explorer 🚀</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="180"/>
-</p>
-
 ---
 
 ### 💻 What I Do
