@@ -45,16 +45,3 @@
   </a>
 </p>
 
----
-
-### ✨ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadbek&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbek&layout=compact&theme=tokyonight" width="450"/>
-</p>
-
----
-
-### 🔮 What’s Next
-Building **Next.js apps** with **TailwindCSS** and **TypeScript**, focusing on **performance, accessibility, and cool animations**.  
-
