@@ -6,7 +6,7 @@
 ### 💻 What I Do
 - I craft interactive, responsive, and beautiful web interfaces.  
 - Front-End wizardry using **React 19**, **Next.js**, **TailwindCSS**, **Sass**, **TypeScript**.  
-- Turning design into clean, functional code like magic.  
+- Turning design into clean, functional cohttps://github.com/HaydarovDev/HaydarovDev/blob/main/README.mdde like magic.  
 
 ---
 
@@ -20,8 +20,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </p>
+
 
 ---
 
