@@ -26,6 +26,5 @@
 ---
 
 ### 🚀 Fun & Personal
-- 🐱 I love cats – expect meow vibes in my code!  
 - 🌟 Always exploring **new tech** & **creative solutions**.  
 - 🎯 Passionate about **performance, UX, and clean code**.  
