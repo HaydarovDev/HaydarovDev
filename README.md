@@ -5,8 +5,7 @@
 
 ### 💻 What I Do
 - I craft interactive, responsive, and beautiful web interfaces.  
-- Front-End wizardry using **React 19**, **Next.js**, **TailwindCSS**, **Sass**, **TypeScript**.  
-- Turning design into clean, functional cohttps://github.com/HaydarovDev/HaydarovDev/blob/main/README.mdde like magic.  
+- Front-End wizardry using **React 19**, **Next.js**, **TailwindCSS**, **Sass**, **TypeScript**.   
 
 ---
 
