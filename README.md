@@ -22,4 +22,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>  
   <img src="https://images.tute.io/media/topics/icons/express-js.png" width="40"/>  
   <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/3840px-MongoDB_Logo.svg.png" width="40"/>
 </p>
